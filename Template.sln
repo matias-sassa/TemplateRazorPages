@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltaP", "AltaP\AltaP.csproj", "{B0C162FA-3347-4148-A875-482D6CE116AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "AltaP\Api.csproj", "{B0C162FA-3347-4148-A875-482D6CE116AE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{1565C580-AF20-45AB-9843-51E58FBFCE34}"
 EndProject
